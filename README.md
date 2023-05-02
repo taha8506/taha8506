@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Taha Shaikh</h1>
 <h3 align="center">A passionate Software Engineer from Vancouver, Canada</h3>
 
-- 👨‍💻 All of my projects are available at [http://taha-shaikh.dreamhosters.com/](http://taha-shaikh.dreamhosters.com/)
+- 👨‍💻 All of my projects are available at [https://taha8506.github.io/TahaShaikhPortfolio/](https://taha8506.github.io/TahaShaikhPortfolio/)
 
 - 📫 How to reach me **taha8506@gmail.com**
 
